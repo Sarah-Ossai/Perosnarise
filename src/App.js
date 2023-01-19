@@ -358,8 +358,9 @@ function App() {
       </section>
 
 
-      <section className='pb-40'>
-      <div className='bg-[#F4F1F1] rounded-md flex md:flex-row flex-col px-10  md:px-20 py-20 md:mx-24 mx-7 justify-between' >
+      <section className='pb-40 '>
+      <div className='bg-[#F4F1F1] rounded-md flex md:flex-row flex-col px-10  md:px-20 py-20 md:mx-24 mx-7 justify-between
+      md:bg-leftbg bg-[length:130px_150px] bg-[left_top]  bg-no-repeat' >
         <div>
           <p className='md:text-5xl text-3xl font-bold leading-10'>Curious to try?</p>
           <br/>

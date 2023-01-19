@@ -17,6 +17,8 @@ module.exports = {
         'hero-pattern': "url('Components/Assets/Images/herobg.png')",
         'left-half': "url('Components/Assets/Images/lefthalf.png')",
         'right-half': "url('Components/Assets/Images/righthalf.png')",
+        'rightbg': "url('Components/Assets/Images/rightbg.png')",
+        'leftbg': "url('Components/Assets/Images/leftbg.png')",
 
       },
       fontFamily: {
